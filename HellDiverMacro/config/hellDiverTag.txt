@@ -1,0 +1,336 @@
+<0>
+	<name> Resupply </name>
+	<hotkey> 4 </hotkey>
+	<inputCode> sswd </inputCode>
+</0>
+
+<1>
+	<name> MG-94 Machine Gun </name>
+	<hotkey> 5 </hotkey>
+	<inputCode> saswd </inputCode>
+</1>
+
+<2>
+	<name> MGX-42 Machine Gun </name>
+	<hotkey> 6 </hotkey>
+	<inputCode> saswwa </inputCode>
+</2>
+
+<3>
+	<name> LAS-98 Laser Cannon </name>
+	<hotkey> H </hotkey>
+	<inputCode> saswa </inputCode>
+</3>
+
+<4>
+	<name> AC-22 Dum-Dum </name>
+	<hotkey> J </hotkey>
+	<inputCode> saswwd </inputCode>
+</4>
+
+<5>
+	<name> Obliterator Grenade Launcher </name>
+	<hotkey>  </hotkey>
+	<inputCode> sawas </inputCode>
+</5>
+
+<6>
+	<name> M-25 Rumbler </name>
+	<hotkey>  </hotkey>
+	<inputCode> sawaa </inputCode>
+</6>
+
+<7>
+	<name> FLAM-40 Incinerator </name>
+	<hotkey>  </hotkey>
+	<inputCode> sasda </inputCode>
+</7>
+
+<8>
+	<name> TOX-13 Avenger </name>
+	<hotkey>  </hotkey>
+	<inputCode> sasdd </inputCode>
+</8>
+
+<9>
+	<name> RL-112 Recoilless Rifle </name>
+	<hotkey>  </hotkey>
+	<inputCode> sadda </inputCode>
+</9>
+
+<10>
+	<name> EAT-17 </name>
+	<hotkey>  </hotkey>
+	<inputCode> sadws </inputCode>
+</10>
+
+<11>
+	<name> MLS-4X Commando </name>
+	<hotkey>  </hotkey>
+	<inputCode> sawsd </inputCode>
+</11>
+
+<12>
+	<name> AD-334 Guard Dog </name>
+	<hotkey>  </hotkey>
+	<inputCode> swawds </inputCode>
+</12>
+
+<13>
+	<name> AD-289 Angel </name>
+	<hotkey>  </hotkey>
+	<inputCode> swaads </inputCode>
+</13>
+
+<14>
+	<name> Resupply Pack </name>
+	<hotkey>  </hotkey>
+	<inputCode> swssd </inputCode>
+</14>
+
+<15>
+	<name> LIFT-850 Jump Pack </name>
+	<hotkey>  </hotkey>
+	<inputCode> swwsw </inputCode>
+</15>
+
+<16>
+	<name> SH-32 Directional Kinetic Shield </name>
+	<hotkey>  </hotkey>
+	<inputCode> swadas </inputCode>
+</16>
+
+<17>
+	<name> SH-20 Shield Generator Pack </name>
+	<hotkey>  </hotkey>
+	<inputCode> swadad </inputCode>
+</17>
+
+<18>
+	<name> REP-80 </name>
+	<hotkey>  </hotkey>
+	<inputCode> ssads </inputCode>
+</18>
+
+<19>
+	<name> REC-6 Demolisher </name>
+	<hotkey>  </hotkey>
+	<inputCode> sadww </inputCode>
+</19>
+
+<20>
+	<name> EXO-44 Walker Exosuit </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdwass </inputCode>
+</20>
+
+<21>
+	<name> EXO-48 Obsidian Exosuit </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdwasa </inputCode>
+</21>
+
+<22>
+	<name> EXO-51 Lumberer Exosuit </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdwasd </inputCode>
+</22>
+
+<23>
+	<name> MC-109 Hammer Motorcycle </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdsaaw </inputCode>
+</23>
+
+<24>
+	<name> TD-110 Bastion </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdsawd </inputCode>
+</24>
+
+<25>
+	<name> M5 APC </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdsaad </inputCode>
+</25>
+
+<26>
+	<name> M5-32 HAV </name>
+	<hotkey>  </hotkey>
+	<inputCode> sdsaws </inputCode>
+</26>
+
+<27>
+	<name> Humblebee UAV drone </name>
+	<hotkey>  </hotkey>
+	<inputCode> awd </inputCode>
+</27>
+
+<28>
+	<name> Distractor Beacon </name>
+	<hotkey>  </hotkey>
+	<inputCode> asd </inputCode>
+</28>
+
+<29>
+	<name> AT-47 Anti-Tank Emplacement </name>
+	<hotkey>  </hotkey>
+	<inputCode> aawwda </inputCode>
+</29>
+
+<30>
+	<name> A/MG-11 Minigun Turret </name>
+	<hotkey>  </hotkey>
+	<inputCode> aswda </inputCode>
+</30>
+
+<31>
+	<name> A/RX-34 Railcannon Turret </name>
+	<hotkey>  </hotkey>
+	<inputCode> aswad </inputCode>
+</31>
+
+<32>
+	<name> A/GL-8 Launcher Turret </name>
+	<hotkey>  </hotkey>
+	<inputCode> aswdds </inputCode>
+</32>
+
+<33>
+	<name> A/AC-6 Tesla Tower </name>
+	<hotkey>  </hotkey>
+	<inputCode> asswda </inputCode>
+</33>
+
+<34>
+	<name> Airdropped Anti-Personnel Mines </name>
+	<hotkey>  </hotkey>
+	<inputCode> adsw </inputCode>
+</34>
+
+<35>
+	<name> Anti-Personnel Barrier </name>
+	<hotkey>  </hotkey>
+	<inputCode> adssd </inputCode>
+</35>
+
+<36>
+	<name> Thunderer Smoke Round </name>
+	<hotkey>  </hotkey>
+	<inputCode> dswws </inputCode>
+</36>
+
+<37>
+	<name> Airdropped Stun Mines </name>
+	<hotkey>  </hotkey>
+	<inputCode> adws </inputCode>
+</37>
+
+<38>
+	<name> Static Field Conductors </name>
+	<hotkey>  </hotkey>
+	<inputCode> dwas </inputCode>
+</38>
+
+<39>
+	<name> Heavy Airstrike </name>
+	<hotkey>  </hotkey>
+	<inputCode> dwsda </inputCode>
+</39>
+
+<40>
+	<name> Vindicator Dive Bomb </name>
+	<hotkey>  </hotkey>
+	<inputCode> ddd </inputCode>
+</40>
+
+<41>
+	<name> Strafing Run </name>
+	<hotkey>  </hotkey>
+	<inputCode> ddw </inputCode>
+</41>
+
+<42>
+	<name> Incendiary Bombs </name>
+	<hotkey>  </hotkey>
+	<inputCode> dwad </inputCode>
+</42>
+
+<43>
+	<name> Heavy Strafing Run </name>
+	<hotkey>  </hotkey>
+	<inputCode> ddsw </inputCode>
+</43>
+
+<44>
+	<name> Close Air Support </name>
+	<hotkey>  </hotkey>
+	<inputCode> ddsa </inputCode>
+</44>
+
+<45>
+	<name> Missile Barrage </name>
+	<hotkey>  </hotkey>
+	<inputCode> dsssas </inputCode>
+</45>
+
+<46>
+	<name> Thunderer Barrage </name>
+	<hotkey>  </hotkey>
+	<inputCode> dswwas </inputCode>
+</46>
+
+<47>
+	<name> Sledge Precision Artillery </name>
+	<hotkey>  </hotkey>
+	<inputCode> dwawsd </inputCode>
+</47>
+
+<48>
+	<name> Orbital Laser Strike </name>
+	<hotkey>  </hotkey>
+	<inputCode> dwawda </inputCode>
+</48>
+
+<49>
+	<name> Shredder Missile Strike </name>
+	<hotkey>  </hotkey>
+	<inputCode> dadassd </inputCode>
+</49>
+
+<50>
+	<name> Railcannon Strike </name>
+	<hotkey>  </hotkey>
+	<inputCode> dswsa </inputCode>
+</50>
+
+<51>
+	<name> Stratagem </name>
+	<hotkey> Ctrl </hotkey>
+	<inputCode> null </inputCode>
+</51>
+
+<52>
+	<name> Reinforce </name>
+	<hotkey>  </hotkey>
+	<inputCode> wsdaw </inputCode>
+</52>
+
+<53>
+	<name> NUX-223 Hellbomb </name>
+	<hotkey>  </hotkey>
+	<inputCode> wadsws </inputCode>
+</53>
+
+<54>
+	<name> ME-1 Sniffer Metal Detector </name>
+	<hotkey>  </hotkey>
+	<inputCode> ssdw </inputCode>
+</54>
+
+<55>
+	<name> Emergency Beacon </name>
+	<hotkey>  </hotkey>
+	<inputCode> wsdw </inputCode>
+</55>
+
